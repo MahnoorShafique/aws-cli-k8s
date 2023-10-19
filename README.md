@@ -3,4 +3,4 @@
 #### getting current aws profile:
 aws sts get-caller-identity
 
-export AWS_PROFILE=taleemabad-stage
+export AWS_PROFILE=tb-stage
